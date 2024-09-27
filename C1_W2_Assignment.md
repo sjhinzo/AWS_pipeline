@@ -1,4 +1,4 @@
-# Week 2 Assignment:<br>An Example of the Data Engineering Lifecycle
+An Example of the Data Engineering Lifecycle
 
 In this lab, you will set up and run a data pipeline example that shows all the 
 stages of the data engineering lifecycle. Your source system will be a 
