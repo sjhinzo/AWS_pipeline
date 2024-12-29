@@ -271,15 +271,3 @@ ordered for each product line). This could be done by writing simple query
 statements, that could have been more complicated if done on the original table. 
 You will learn more about data modeling in Course 4 of this specialization.
 
-## 5 - Data Insights and Visualizations
-
-Your role as a Data Engineer might finish here. All of what you need to do now
-is to give the data analyst access to the data stored in S3 so that they can 
-query it using Amazon Athena. For this lab, you will also experiment with this 
-last step which is to query the data using Amazon Athena and create some 
-visualizations to analyze the data. You will carry out the analysis in Jupyter Notebook.
-
-5.1. Go back to the tab where you have the Jupyter Lab environment. Go inside the `infrastructure/jupyterlab` folder.
-
-5.2. Open the notebook *C1_W2_Dashboard.ipynb* and follow the 
-instructions there.
